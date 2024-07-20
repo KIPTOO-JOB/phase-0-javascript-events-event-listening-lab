@@ -12,5 +12,4 @@ function addingEventListener() {
     });
 }
 
-// Call the function to set up the event listener
 addingEventListener();
